@@ -1,4 +1,4 @@
-# CPU-Scheduling-Using-Round-Robin - Project Overview
+# CPU Scheduling Using Round Robin - Project Overview
 
 Introduction
 This project aims to design and implement a program that simulates CPU scheduling. It manages an input stream describing arriving jobs, their requirements, and actions, ensuring jobs are processed based on their priorities and system capabilities.
