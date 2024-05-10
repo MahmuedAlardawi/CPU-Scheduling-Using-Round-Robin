@@ -1,9 +1,9 @@
 # CPU Scheduling Using Round Robin - Project Overview
 
-Introduction
+## Introduction
 This project aims to design and implement a program that simulates CPU scheduling. It manages an input stream describing arriving jobs, their requirements, and actions, ensuring jobs are processed based on their priorities and system capabilities.
 
-Key Features
+## Key Features
 Job Arrivals Management: Manages jobs based on available resources, either rejecting, queuing, or moving them directly to the Ready Queue.
 Dynamic and Standard Round Robin Scheduling: Utilizes both dynamic and fixed time quantum approaches to schedule jobs efficiently.
 Input Handling: Processes system configuration and job commands from input text, adjusting system settings dynamically.
@@ -14,7 +14,7 @@ Code Quality: Emphasizes readability and good coding practices, including proper
 Objective
 To demonstrate and provide a hands-on experience with CPU scheduling within an operating system, focusing on handling dynamic job arrivals, resource allocation, and scheduling using Round Robin algorithms.
 
-How to Use
+## How to Use
 Setup and Compilation: Compile the Java source files, including CPU_scheduling.java and other associated classes.
 Running the Scheduler: Start the program to initiate the scheduling simulator which listens for incoming job and system configuration commands.
 Input Commands: Use the provided input specifications to send job arrivals and system commands.
