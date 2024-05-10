@@ -7,11 +7,13 @@ This project aims to design and implement a program that simulates CPU schedulin
 Job Arrivals Management: Manages jobs based on available resources, either rejecting, queuing, or moving them directly to the Ready Queue.
 Dynamic and Standard Round Robin Scheduling: Utilizes both dynamic and fixed time quantum approaches to schedule jobs efficiently.
 Input Handling: Processes system configuration and job commands from input text, adjusting system settings dynamically.
-Technical Requirements
+
+## Technical Requirements
 Java Implementation: Both client and server aspects are implemented in Java using sockets for managing TCP connections.
 Error Handling: Includes comprehensive error checking to handle various input conditions and system states.
 Code Quality: Emphasizes readability and good coding practices, including proper use of comments and consistent code indentation.
-Objective
+
+## Objective
 To demonstrate and provide a hands-on experience with CPU scheduling within an operating system, focusing on handling dynamic job arrivals, resource allocation, and scheduling using Round Robin algorithms.
 
 ## How to Use
@@ -19,7 +21,8 @@ Setup and Compilation: Compile the Java source files, including CPU_scheduling.j
 Running the Scheduler: Start the program to initiate the scheduling simulator which listens for incoming job and system configuration commands.
 Input Commands: Use the provided input specifications to send job arrivals and system commands.
 Review Outputs: Monitor the system's response through console outputs or logs that provide details on job processing and system states.
-Explore
+
+## Explore
 Delve into the source code to understand more about:
 
 Job and Queue Management: Explore how jobs are managed across different queues based on their priority and resource requirements.
