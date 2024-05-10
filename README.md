@@ -1,13 +1,4 @@
-# CPU-Scheduling-Using-Round-Robin
-King AbdulAziz Universality - Operating Systems (CPCS-361)
-
-This project, developed for the CPCS-361 course at King Abdulaziz University, simulates job and CPU scheduling within an operating system. It uses a dynamic and standard Round Robin algorithm to handle job scheduling based on priority and resource availability.
-
-Made by:
-Mahmued Ahmad Alardawi – 2135209 – mmalardawi@stu.kau.edu.sa
-Yazeed Alsahafi - 2036556
-Submitted on: 10 May 2024
-View Full Project, I/O, and Code
+# CPU-Scheduling-Using-Round-Robin - Project Overview
 
 Introduction
 This project aims to design and implement a program that simulates CPU scheduling. It manages an input stream describing arriving jobs, their requirements, and actions, ensuring jobs are processed based on their priorities and system capabilities.
